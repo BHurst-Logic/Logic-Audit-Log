@@ -1,4 +1,4 @@
-# Audit-005: LLM Capability Drift (Background Blur)
+# Audit-002: LLM Capability Drift (Background Blur)
 **Auditor:** Bryan Hurst (OSU CS '99)
 **Date:** April 5, 2026
 
