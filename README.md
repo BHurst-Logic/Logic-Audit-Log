@@ -24,4 +24,4 @@ A series of red-teaming exercises designed to stress-test LLM geospatial reasoni
 * **Methodology:** Zero-tolerance for "Hallucinated Drift"; strict adherence to the **Source of Truth** protocol.
 
 ---
-[Connect with me on LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE-URL)
+[Connect with me on LinkedIn](https://www.linkedin.com/in/bryanhurst-cs)
